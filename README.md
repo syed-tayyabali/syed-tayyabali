@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Tayyab Ali</h1>
-<h3 align="center">A passionate frontend developer having 2.6 years of experience on React, redux and Redux tool kit</h3>
+<h3 align="center">A passionate frontend developer having 3 years of experience on React, redux and Redux tool kit</h3>
 
 - 🌱 I’m currently learning **React native.**
 
